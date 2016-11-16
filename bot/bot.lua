@@ -227,7 +227,7 @@ function create_config( )
       "version",
       "weather",
       "xkcd",
-      "youtube" },
+      "youtube" ,
     sudo_users = {194856827},
     disabled_channels =
   }
